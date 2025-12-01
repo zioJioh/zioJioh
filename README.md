@@ -20,14 +20,3 @@ Java/Spring Boot를 이용해 일상 생활에서 발생하는 불편함을 해�
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
 ---
-
-<!-- 4. GitHub Stats -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ziojioh&show_icons=true&layout=compact" alt="Top Langs"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ziojioh&show_icons=true" alt="Stats"/>
-</p>
-
----
